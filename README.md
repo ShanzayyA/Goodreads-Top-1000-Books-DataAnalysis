@@ -40,6 +40,12 @@ The notebook/script includes the following visualizations:
 ## Prerequisites
 Ensure you have Python installed. You can install the necessary libraries using pip:
 
+## Requirements
+
+pandas
+matplotlib
+seaborn
+
 ```bash
 pip install -r requirements.txt
 
